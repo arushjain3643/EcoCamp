@@ -1,0 +1,55 @@
+{
+  "synthetic": true,
+  "generator": "scripts/generate_samples.py",
+  "default_config_expectations": true,
+  "files": [
+    {
+      "file": "normal_consumption.json",
+      "scenario": "normal",
+      "records": 360,
+      "description": "Four buildings x electricity/water/waste, 30 daily readings each, mild noise and weekend dip. No alerts expected."
+    },
+    {
+      "file": "electricity_unusual_usage.json",
+      "scenario": "unusual electricity usage",
+      "records": 105,
+      "description": "Library runs about 2.3-2.6x normal for 3 consecutive days; Admin Block has a one-day spike; Hostel A is a normal control. 4 flagged readings."
+    },
+    {
+      "file": "water_wastage.json",
+      "scenario": "water wastage",
+      "records": 120,
+      "description": "Hostel B uses about 1.9x normal water for 6 consecutive days (timestamps carry +05:30). Science Block and Canteen are controls. 6 flagged readings."
+    },
+    {
+      "file": "waste_anomalies.json",
+      "scenario": "waste anomalies",
+      "records": 120,
+      "description": "Canteen waste is about 2.5x normal for 3 days; Hostel A has a one-day spike; Admin Block is a control. 4 flagged readings."
+    },
+    {
+      "file": "insufficient_history.json",
+      "scenario": "insufficient history",
+      "records": 14,
+      "description": "Three series with only 5, 6 and 3 readings (default minimum is 7 earlier readings), including a 3x spike that must NOT be judged. 0 flagged, all insufficient_data."
+    },
+    {
+      "file": "edge_cases.json",
+      "scenario": "edge cases",
+      "records": 63,
+      "description": "Auditorium water zero reading (suspect data), Gymnasium electricity drop to 30% (below baseline, no savings), Guest House sent as resource 'Electricity' / unit 'kwh' (normalized). 2 flagged readings."
+    },
+    {
+      "file": "mixed_campus.json",
+      "scenario": "mixed campus",
+      "records": 782,
+      "description": "All six scenarios above in one shuffled request; results must equal the separate runs and keep input order. 16 flagged readings."
+    },
+    {
+      "file": "invalid_records.json",
+      "scenario": "invalid input",
+      "records": 6,
+      "description": "Six records, five invalid (negative value, unknown resource, blank building, wrong unit, numeric epoch timestamp). Expect HTTP 422 with details for indices 1-5."
+    }
+  ]
+}

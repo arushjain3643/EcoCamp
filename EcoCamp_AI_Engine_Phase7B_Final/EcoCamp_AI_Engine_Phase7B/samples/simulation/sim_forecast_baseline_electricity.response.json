@@ -1,0 +1,94 @@
+{
+  "contract_version": "1.0",
+  "simulation_contract_version": "1.0",
+  "status": "ok",
+  "engine_version": "0.7.0",
+  "result": {
+    "simulation_contract_version": "1.0",
+    "engine_version": "0.7.0",
+    "scenario_id": "scn-03b0bbbbec15",
+    "projection_type": "hypothetical",
+    "calculation_status": "calculated",
+    "not_calculated_reason": null,
+    "scope": {
+      "level": "building",
+      "building_code": "BLOCK_A",
+      "buildings_included": [
+        "BLOCK_A"
+      ]
+    },
+    "resource_type": "electricity",
+    "unit": "kWh",
+    "baseline": {
+      "value": 2629.2,
+      "unit": "kWh",
+      "period_days": 7,
+      "source": "forecast",
+      "window_start": "2026-07-06",
+      "window_end": "2026-07-12",
+      "days_with_data": 35,
+      "coverage_fraction": 1.0,
+      "readings_used": 35,
+      "lower_bound": 2629.2,
+      "upper_bound": 2629.2,
+      "interval_level": 0.8,
+      "uncertainty_method": "empirical_backtest_residual_quantile (split-conformal style): half-width = the ceil((n+1)*level)-th smallest absolute rolling-origin backtest error of the selected model, per forecast step when the step has enough residuals, otherwise pooled over steps; lower bound clipped at 0"
+    },
+    "reduction_percentage": 15.0,
+    "projected_consumption": {
+      "value": 2234.82,
+      "unit": "kWh",
+      "lower_bound": 2234.82,
+      "upper_bound": 2234.82
+    },
+    "estimated_savings": {
+      "value": 394.38,
+      "unit": "kWh",
+      "lower_bound": 394.38,
+      "upper_bound": 394.38
+    },
+    "estimated_co2e_savings_kg": null,
+    "emission_factor": null,
+    "measured_savings": null,
+    "units": {
+      "consumption": "kWh",
+      "co2e": "kg CO2e",
+      "period": "days"
+    },
+    "building_breakdown": null,
+    "assumptions": [
+      "Hypothetical projection: it assumes the stated reduction is achieved over the whole baseline period. It is not measured savings and does not show that any reduction happened.",
+      "estimated_savings = baseline x reduction_percentage / 100; projected_consumption = baseline - estimated_savings.",
+      "All consumption values are in kWh. The baseline period is 7 days and is never rescaled.",
+      "No monetary savings are estimated.",
+      "Baseline = 2629.2 kWh forecast over 7 days (2026-07-06 to 2026-07-12) by the Phase 6 forecasting engine (model: seasonal_naive).",
+      "Baseline uncertainty: [2629.2, 2629.2] kWh at 80% nominal level using empirical_backtest_residual_quantile (split-conformal style): half-width = the ceil((n+1)*level)-th smallest absolute rolling-origin backtest error of the selected model, per forecast step when the step has enough residuals, otherwise pooled over steps; lower bound clipped at 0."
+    ],
+    "warnings": [
+      "No electricity emission factor configured; CO2e reduction not calculated."
+    ],
+    "data_quality_status": "ok",
+    "simulation_type": "forecast",
+    "uncertainty": {
+      "interval_level": 0.8,
+      "method": "empirical_backtest_residual_quantile (split-conformal style): half-width = the ceil((n+1)*level)-th smallest absolute rolling-origin backtest error of the selected model, per forecast step when the step has enough residuals, otherwise pooled over steps; lower bound clipped at 0",
+      "baseline": {
+        "lower_bound": 2629.2,
+        "upper_bound": 2629.2
+      },
+      "estimated_savings": {
+        "lower_bound": 394.38,
+        "upper_bound": 394.38
+      },
+      "projected_consumption": {
+        "lower_bound": 2234.82,
+        "upper_bound": 2234.82
+      },
+      "estimated_co2e_savings_kg": null
+    },
+    "forecast_details": {
+      "horizon_days": 7,
+      "model_used": "seasonal_naive"
+    }
+  }
+}

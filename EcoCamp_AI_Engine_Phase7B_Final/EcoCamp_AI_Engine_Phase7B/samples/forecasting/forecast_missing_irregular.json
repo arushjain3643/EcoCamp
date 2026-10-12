@@ -1,0 +1,336 @@
+{
+ "records": [
+  {
+   "timestamp": "2026-06-01T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9709.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-02T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10468.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-03T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10151.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-04T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10254.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-05T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9439.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-06T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5853.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-07T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5324.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-08T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9059.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-09T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9954.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-12T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 8878.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-13T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 6226.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-14T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5392.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-15T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9327.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-16T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10856.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-17T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10134.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-18T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10223.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-19T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 8707.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-20T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5857.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-21T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5531.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-22T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9699.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-23T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10247.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-25T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9842.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-26T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9747.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-27T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5684.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-28T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5044.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-29T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9514.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-30T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10025.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-01T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10098.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-02T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10569.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-03T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 8684.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-04T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5902.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-05T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5031.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-06T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9749.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-07T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9420.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-08T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9787.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-09T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10394.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-10T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 8755.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-11T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5734.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-12T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5055.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-13T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9642.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-14T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10110.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-15T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9896.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-16T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 10184.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-17T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9094.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-18T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5711.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-19T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 5179.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-05T05:30:00+05:30",
+   "building": "Canteen",
+   "resource_type": "water",
+   "consumption_value": 9439.0,
+   "unit": "liters"
+  }
+ ],
+ "options": {
+  "horizon_days": 7
+ }
+}

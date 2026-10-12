@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "timestamp": "2026-06-01T00:00:00Z",
+   "building": "Admin Block",
+   "resource_type": "waste",
+   "consumption_value": 17.8,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-02T00:00:00Z",
+   "building": "Admin Block",
+   "resource_type": "waste",
+   "consumption_value": 19.08,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-03T00:00:00Z",
+   "building": "Admin Block",
+   "resource_type": "waste",
+   "consumption_value": 18.44,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-04T00:00:00Z",
+   "building": "Admin Block",
+   "resource_type": "waste",
+   "consumption_value": 18.31,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-05T00:00:00Z",
+   "building": "Admin Block",
+   "resource_type": "waste",
+   "consumption_value": 16.75,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-01T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 37030.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-02T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 37908.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-03T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 39917.0,
+   "unit": "liters"
+  }
+ ],
+ "options": {
+  "horizon_days": 7
+ }
+}

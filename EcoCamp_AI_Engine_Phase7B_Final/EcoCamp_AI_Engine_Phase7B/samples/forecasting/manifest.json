@@ -1,0 +1,36 @@
+{
+  "synthetic": true,
+  "generator": "scripts/generate_forecast_samples.py",
+  "files": [
+    {
+      "file": "forecast_normal_7day.json",
+      "records": 224,
+      "horizon_days": 7,
+      "description": "Four series (4 buildings, 3 resources), 56 daily readings each, shuffled, 7-day horizon."
+    },
+    {
+      "file": "forecast_next_day.json",
+      "records": 35,
+      "horizon_days": 1,
+      "description": "One series (Library electricity), 35 daily readings, next-day forecast (horizon_days = 1)."
+    },
+    {
+      "file": "forecast_missing_irregular.json",
+      "records": 47,
+      "horizon_days": 7,
+      "description": "Canteen water, 49 days with 3 missing days (never imputed), +05:30 timestamps and one exact duplicate reading (counted once). Expect data_quality_status 'suspect' notes, not a refusal."
+    },
+    {
+      "file": "forecast_insufficient_history.json",
+      "records": 8,
+      "horizon_days": 7,
+      "description": "Admin Block waste with only 5 days, plus Hostel B water with 3 days: both must return forecast_available = false / insufficient_data with no numbers."
+    },
+    {
+      "file": "forecast_long_history.json",
+      "records": 150,
+      "horizon_days": 7,
+      "description": "Library electricity, 150 daily readings with weekly pattern and 8% noise: long enough for the optional gradient-boosting model to be backtested against the baseline. Which model wins is decided by the backtest, not by this file."
+    }
+  ]
+}

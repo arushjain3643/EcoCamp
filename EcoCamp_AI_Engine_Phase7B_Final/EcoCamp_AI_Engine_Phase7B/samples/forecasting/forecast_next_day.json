@@ -1,0 +1,252 @@
+{
+ "records": [
+  {
+   "timestamp": "2026-06-01T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 409.82,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-02T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 463.34,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-03T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 422.58,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-04T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 431.25,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-05T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 422.69,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-06T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 255.23,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-07T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 229.9,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-08T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 428.79,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-09T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 400.27,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-10T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 458.57,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-11T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 417.56,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-12T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 388.36,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-13T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 245.63,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-14T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 213.49,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-15T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 402.19,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-16T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 460.48,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-17T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 434.21,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-18T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 405.39,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-19T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 385.98,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-20T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 256.52,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-21T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 238.89,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-22T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 422.69,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-23T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 439.38,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-24T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 431.65,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-25T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 460.46,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-26T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 427.96,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-27T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 255.38,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-28T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 215.88,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-29T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 423.33,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-30T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 431.49,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-01T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 421.54,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-02T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 461.56,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-03T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 401.52,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-04T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 255.8,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-05T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 237.45,
+   "unit": "kWh"
+  }
+ ],
+ "options": {
+  "horizon_days": 1
+ }
+}

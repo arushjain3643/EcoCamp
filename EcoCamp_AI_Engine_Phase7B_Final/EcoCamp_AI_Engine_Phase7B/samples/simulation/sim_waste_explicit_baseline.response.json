@@ -1,0 +1,63 @@
+{
+  "contract_version": "1.0",
+  "simulation_contract_version": "1.0",
+  "status": "ok",
+  "engine_version": "0.7.0",
+  "result": {
+    "simulation_contract_version": "1.0",
+    "engine_version": "0.7.0",
+    "scenario_id": "scn-a2f0316fa7ce",
+    "projection_type": "hypothetical",
+    "calculation_status": "calculated",
+    "not_calculated_reason": null,
+    "scope": {
+      "level": "building",
+      "building_code": "CANTEEN",
+      "buildings_included": [
+        "CANTEEN"
+      ]
+    },
+    "resource_type": "waste",
+    "unit": "kg",
+    "baseline": {
+      "value": 2550.0,
+      "unit": "kg",
+      "period_days": 30,
+      "source": "explicit",
+      "window_start": null,
+      "window_end": null,
+      "days_with_data": null,
+      "coverage_fraction": null,
+      "readings_used": null
+    },
+    "reduction_percentage": 25.0,
+    "projected_consumption": {
+      "value": 1912.5,
+      "unit": "kg"
+    },
+    "estimated_savings": {
+      "value": 637.5,
+      "unit": "kg"
+    },
+    "estimated_co2e_savings_kg": null,
+    "emission_factor": null,
+    "measured_savings": null,
+    "units": {
+      "consumption": "kg",
+      "co2e": "kg CO2e",
+      "period": "days"
+    },
+    "building_breakdown": null,
+    "assumptions": [
+      "Hypothetical projection: it assumes the stated reduction is achieved over the whole baseline period. It is not measured savings and does not show that any reduction happened.",
+      "estimated_savings = baseline x reduction_percentage / 100; projected_consumption = baseline - estimated_savings.",
+      "All consumption values are in kg. The baseline period is 30 days and is never rescaled.",
+      "No monetary savings are estimated.",
+      "Baseline is the caller-supplied 2550 kg over 30 days; it was not verified against any records."
+    ],
+    "warnings": [
+      "No waste emission factor configured; no carbon-equivalence is claimed for avoided waste."
+    ],
+    "data_quality_status": "ok"
+  }
+}

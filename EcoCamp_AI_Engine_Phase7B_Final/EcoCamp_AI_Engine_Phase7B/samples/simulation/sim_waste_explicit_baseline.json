@@ -1,0 +1,12 @@
+{
+  "scenario": {
+    "resource_type": "waste",
+    "building_code": "CANTEEN",
+    "reduction_percentage": 25,
+    "baseline_consumption": {
+      "value": 2550,
+      "unit": "kg",
+      "period_days": 30
+    }
+  }
+}

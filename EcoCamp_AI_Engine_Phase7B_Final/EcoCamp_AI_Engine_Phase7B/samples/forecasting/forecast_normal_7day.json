@@ -1,0 +1,1575 @@
+{
+ "records": [
+  {
+   "timestamp": "2026-06-07T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 20223.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-09T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 93.85,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-10T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 712.14,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-21T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 225.48,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-02T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 806.95,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-14T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 891.08,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-01T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 38127.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-12T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 748.18,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-02T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 857.3,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-01T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 89.63,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-02T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 91.75,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-13T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 403.06,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-14T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 218.72,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-05T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 241.29,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-15T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 443.55,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-08T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 36809.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-12T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 20032.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-28T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 432.57,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-09T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 40626.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-01T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 746.98,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-08T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 797.41,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-04T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 91.31,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-17T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 37632.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-21T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 840.53,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-07T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 433.34,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-23T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 36265.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-09T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 441.38,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-03T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 41068.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-02T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 40340.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-10T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 83.83,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-10T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 396.42,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-24T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 84.87,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-25T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 90.05,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-15T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 40692.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-19T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 78.35,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-12T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 87.94,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-23T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 459.02,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-01T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 434.55,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-13T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 789.05,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-16T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 84.02,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-27T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 274.52,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-03T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 33887.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-11T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 437.32,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-13T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 87.98,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-06T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 52.7,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-08T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 426.61,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-11T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 89.32,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-15T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 828.75,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-04T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 40654.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-08T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 82.77,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-18T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 39322.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-08T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 38555.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-10T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 89.77,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-19T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 18827.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-13T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 260.49,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-15T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 83.11,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-22T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 396.73,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-16T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 41314.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-13T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 36621.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-05T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 20839.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-21T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 48.82,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-11T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 25045.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-25T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 53.11,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-17T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 411.62,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-22T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 446.26,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-20T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 266.35,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-22T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 36293.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-22T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 38151.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-12T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 398.53,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-06T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 476.99,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-24T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 847.51,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-02T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 450.85,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-08T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 407.29,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-30T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 37752.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-14T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 42.07,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-05T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 414.08,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-01T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 36938.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-11T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 758.85,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-05T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 420.95,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-22T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 771.74,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-23T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 440.09,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-12T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 383.66,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-16T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 786.4,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-25T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 461.99,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-18T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 461.83,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-11T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 251.12,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-11T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 498.76,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-12T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 49.17,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-06T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 23274.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-26T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 87.67,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-06T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 401.64,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-07T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 36570.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-03T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 394.51,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-30T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 436.21,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-19T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 382.87,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-03T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 406.84,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-22T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 83.78,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-23T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 842.27,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-23T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 88.05,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-18T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 53.11,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-05T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 46.09,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-23T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 39323.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-08T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 81.17,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-14T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 21152.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-24T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 441.04,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-23T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 93.66,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-25T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 23446.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-20T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 50.9,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-30T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 88.36,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-03T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 83.48,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-07T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 89.93,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-21T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 386.26,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-19T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 210.43,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-20T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 422.11,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-24T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 403.19,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-13T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 52.76,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-15T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 82.63,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-29T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 83.57,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-18T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 502.08,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-09T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 819.9,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-09T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 436.92,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-28T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 21115.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-27T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 23531.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-27T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 56.86,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-16T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 455.0,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-24T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 797.14,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-14T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 437.58,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-21T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 87.57,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-26T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 784.92,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-28T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 45.76,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-29T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 770.31,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-26T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 419.63,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-17T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 719.61,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-21T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 435.81,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-02T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 40404.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-05T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 759.36,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-26T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 37748.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-10T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 791.01,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-21T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 21204.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-03T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 773.39,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-26T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 45.73,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-29T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 36855.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-17T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 36855.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-07T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 221.51,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-06T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 785.58,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-09T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 835.88,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-30T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 839.24,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-19T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 711.7,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-14T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 42741.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-09T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 38387.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-17T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 88.39,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-10T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 35462.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-01T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 416.63,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-24T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 37311.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-07T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 42.96,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-11T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 56.16,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-26T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 230.76,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-22T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 88.27,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-01T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 792.45,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-18T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 22453.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-10T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 407.28,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-16T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 94.12,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-19T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 46.0,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-14T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 89.44,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-05T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 83.37,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-18T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 807.04,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-04T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 23700.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-06T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 88.29,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-02T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 81.97,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-07T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 419.88,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-02T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 459.99,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-24T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 39186.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-06T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 264.85,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-05T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 37765.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-07T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 794.89,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-15T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 421.47,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-13T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 452.64,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-21T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 42495.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-15T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 798.52,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-20T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 39149.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-04T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 438.4,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-19T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 443.96,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-10T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 38885.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-11T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 41589.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-12T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 235.38,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-23T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 844.61,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-19T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 36623.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-17T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 452.63,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-09T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 89.45,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-15T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 42055.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-25T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 38683.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-18T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 91.81,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-04T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 463.91,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-20T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 87.55,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-24T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 81.93,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-07-18T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 246.3,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-17T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 807.64,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-06T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 39749.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-27T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 476.88,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-16T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 460.87,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-08T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 792.18,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-28T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 196.29,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-14T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 426.27,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-26T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 21877.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-25T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 481.28,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-12T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 35866.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-03T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 770.39,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-26T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 406.83,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-04T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 271.52,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-22T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 788.44,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-04T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 856.88,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-13T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 22538.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-03T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 84.84,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-20T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 22852.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-07-20T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 742.31,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-25T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 258.05,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-06-20T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 477.25,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-04T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 48.12,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-25T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 792.43,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-01T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 82.73,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-16T00:00:00Z",
+   "building": "Hostel B",
+   "resource_type": "water",
+   "consumption_value": 37518.0,
+   "unit": "liters"
+  },
+  {
+   "timestamp": "2026-06-16T00:00:00Z",
+   "building": "Hostel A",
+   "resource_type": "electricity",
+   "consumption_value": 858.56,
+   "unit": "kWh"
+  },
+  {
+   "timestamp": "2026-07-17T00:00:00Z",
+   "building": "Canteen",
+   "resource_type": "waste",
+   "consumption_value": 87.23,
+   "unit": "kg"
+  },
+  {
+   "timestamp": "2026-06-29T00:00:00Z",
+   "building": "Library",
+   "resource_type": "electricity",
+   "consumption_value": 413.33,
+   "unit": "kWh"
+  }
+ ],
+ "options": {
+  "horizon_days": 7
+ }
+}

@@ -1,0 +1,22 @@
+{
+  "contract_version": "1.0",
+  "status": "error",
+  "error": {
+    "code": "invalid_scenario",
+    "message": "The scenario failed validation (1 problem(s)); nothing was simulated.",
+    "details": [
+      {
+        "index": null,
+        "errors": [
+          {
+            "loc": [
+              "scenario",
+              "reduction_percentage"
+            ],
+            "msg": "must be between 0 and 100 inclusive; got 120"
+          }
+        ]
+      }
+    ]
+  }
+}

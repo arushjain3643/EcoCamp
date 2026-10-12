@@ -1,0 +1,46 @@
+{
+  "records": [
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 410.0,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": -5.0,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Library",
+      "resource_type": "gas",
+      "consumption_value": 12.0,
+      "unit": "m3"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "   ",
+      "resource_type": "water",
+      "consumption_value": 900.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 3.1,
+      "unit": "MWh"
+    },
+    {
+      "timestamp": 1785542400,
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 400.0,
+      "unit": "kWh"
+    }
+  ]
+}

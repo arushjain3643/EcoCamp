@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "electricity",
+      "consumption_value": 296.38,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "electricity",
+      "consumption_value": 294.09,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "electricity",
+      "consumption_value": 318.71,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "electricity",
+      "consumption_value": 315.39,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "electricity",
+      "consumption_value": 985.69,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 13.86,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 13.21,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 17.46,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 15.71,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 16.35,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 18.02,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "New Sports Complex",
+      "resource_type": "water",
+      "consumption_value": 7533.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "New Sports Complex",
+      "resource_type": "water",
+      "consumption_value": 7086.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "New Sports Complex",
+      "resource_type": "water",
+      "consumption_value": 7622.0,
+      "unit": "liters"
+    }
+  ]
+}

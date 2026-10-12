@@ -1,0 +1,844 @@
+{
+  "records": [
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 76.87,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 81.28,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 76.88,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 93.78,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 91.07,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 86.63,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 93.92,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 82.03,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 73.01,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 85.55,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 85.13,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 89.31,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 75.98,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 88.64,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 67.78,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 69.33,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 88.35,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 83.6,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 88.67,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 75.36,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 83.49,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 84.09,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 83.05,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 81.38,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 88.31,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 87.71,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 89.82,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 82.9,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 72.73,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 69.53,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 191.76,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 232.42,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 213.43,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 83.1,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 75.73,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 74.15,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 84.52,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 83.44,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 86.63,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 90.13,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 55.63,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 51.38,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 61.0,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.67,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 60.97,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 61.26,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 57.42,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 54.43,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 53.45,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.59,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.12,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 60.26,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 57.83,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 56.68,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 51.26,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 52.86,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 62.33,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.92,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 60.36,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 64.72,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 64.2,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 57.44,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 53.14,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 55.19,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 57.02,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 68.08,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 52.24,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 63.1,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 57.6,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 56.05,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 64.7,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.69,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 58.06,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 60.64,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 53.42,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 54.57,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 60.6,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 116.48,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 53.83,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.98,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.92,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 15.47,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 15.89,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.31,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 19.19,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.43,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.52,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.39,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 15.01,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.96,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.0,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.4,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.29,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.29,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.7,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.82,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.91,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.65,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.41,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 19.2,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.38,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.0,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 15.97,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.79,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.36,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 19.02,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 19.3,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.61,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.32,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 15.81,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.07,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.84,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.8,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.34,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.39,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 14.14,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.23,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 20.21,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 19.16,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.84,
+      "unit": "kg"
+    }
+  ]
+}

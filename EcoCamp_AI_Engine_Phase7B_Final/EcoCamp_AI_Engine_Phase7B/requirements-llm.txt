@@ -1,0 +1,4 @@
+# Optional: official provider SDKs. Install only the one you use.
+# The engine works without either (LLM layer falls back to deterministic text).
+openai>=1.0
+google-genai>=1.0

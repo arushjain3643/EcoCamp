@@ -1,0 +1,85 @@
+{
+  "contract_version": "1.0",
+  "simulation_contract_version": "1.0",
+  "status": "ok",
+  "engine_version": "0.7.0",
+  "result": {
+    "simulation_contract_version": "1.0",
+    "engine_version": "0.7.0",
+    "scenario_id": "scn-7c220125eea8",
+    "projection_type": "hypothetical",
+    "calculation_status": "calculated",
+    "not_calculated_reason": null,
+    "scope": {
+      "level": "campus",
+      "building_code": null,
+      "buildings_included": [
+        "CANTEEN",
+        "HOSTEL_A",
+        "LIBRARY"
+      ]
+    },
+    "resource_type": "water",
+    "unit": "liters",
+    "baseline": {
+      "value": 1343168.0,
+      "unit": "liters",
+      "period_days": 30,
+      "source": "measured_records",
+      "window_start": "2026-06-01",
+      "window_end": "2026-06-30",
+      "days_with_data": 30,
+      "coverage_fraction": 1.0,
+      "readings_used": 90
+    },
+    "reduction_percentage": 10.0,
+    "projected_consumption": {
+      "value": 1208851.2,
+      "unit": "liters"
+    },
+    "estimated_savings": {
+      "value": 134316.8,
+      "unit": "liters"
+    },
+    "estimated_co2e_savings_kg": null,
+    "emission_factor": null,
+    "measured_savings": null,
+    "units": {
+      "consumption": "liters",
+      "co2e": "kg CO2e",
+      "period": "days"
+    },
+    "building_breakdown": [
+      {
+        "building": "CANTEEN",
+        "baseline_value": 257260.0,
+        "days_with_data": 30,
+        "readings_used": 30
+      },
+      {
+        "building": "HOSTEL_A",
+        "baseline_value": 1029040.0,
+        "days_with_data": 30,
+        "readings_used": 30
+      },
+      {
+        "building": "LIBRARY",
+        "baseline_value": 56868.0,
+        "days_with_data": 30,
+        "readings_used": 30
+      }
+    ],
+    "assumptions": [
+      "Hypothetical projection: it assumes the stated reduction is achieved over the whole baseline period. It is not measured savings and does not show that any reduction happened.",
+      "estimated_savings = baseline x reduction_percentage / 100; projected_consumption = baseline - estimated_savings.",
+      "All consumption values are in liters. The baseline period is 30 days and is never rescaled.",
+      "No monetary savings are estimated.",
+      "Baseline = sum of the water readings (liters) in the 30 calendar days (UTC) ending on the most recent reading (2026-06-30), not on today's date.",
+      "Each record's consumption_value is consumption for its own interval (not a cumulative meter value); gaps are not filled or extrapolated."
+    ],
+    "warnings": [
+      "No documented water CO2e conversion factor configured; CO2e reduction not calculated."
+    ],
+    "data_quality_status": "ok"
+  }
+}

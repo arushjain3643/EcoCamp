@@ -1,0 +1,5478 @@
+{
+  "records": [
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 48.65,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5031.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 395.67,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 83.1,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5618.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 298.36,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4506.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5026.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.67,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 13.47,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 16.22,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 615.75,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 36089.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 977.38,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 637.65,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 231.33,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 755.48,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6428.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.52,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 56.68,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 35008.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4427.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 64.7,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 242.4,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 672.52,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9537.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 818.41,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 4939.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 647.35,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 572.48,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 21.89,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 19.16,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 11139.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 38138.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.69,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9747.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9032.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 621.33,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 260.19,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9389.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 52.24,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 62.33,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 432.25,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 33957.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 15.89,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 618.7,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6085.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6304.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5557.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.0,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 726.22,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 25.42,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 31.98,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 190.57,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 74.15,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 652.64,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 28.11,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 304.46,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 4973.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 262.64,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 91.8,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 502.44,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 222.95,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 28.46,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 39802.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10764.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5218.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 780.28,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 705.23,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5582.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.8,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 38058.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 20.34,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 72603.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 665.53,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10068.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.0,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 3984.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 52.86,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 38944.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 13.29,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 216.98,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 299.41,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 3864.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10453.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 39281.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 12.61,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8509.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 84.52,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 57.44,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 242.34,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 47.05,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4278.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 61.0,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.43,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 83.05,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 487.19,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10386.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 408.86,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 663.25,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6903.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 53.42,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 13.86,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8590.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4081.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 58.06,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 267.63,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 690.34,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 60.6,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8642.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 53.52,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 11291.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.65,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4249.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.4,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 723.98,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 37850.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 191.6,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 12.87,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 33287.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "electricity",
+      "consumption_value": 985.69,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 785.19,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 413.13,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4493.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 782.11,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 794.06,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 19.48,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 60.97,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 256.31,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 88.83,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "electricity",
+      "consumption_value": 294.09,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5759.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5321.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.38,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37511.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 82.03,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 40091.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 54.1,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 31.97,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 409.3,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 18.02,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 19.3,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 246.54,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.91,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 4976.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 470.35,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6381.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 82.02,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 60.26,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "New Sports Complex",
+      "resource_type": "water",
+      "consumption_value": 7086.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 53.14,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7085.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 462.69,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 282.69,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 14.36,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 87.57,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.07,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5028.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 461.66,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 53.83,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 40717.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 3921.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4077.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6883.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 317.62,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 39089.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 82.34,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6003.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 26.76,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 75.36,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6931.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 192.87,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 52.48,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 305.85,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 91.01,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 31.92,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6611.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 24.31,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 716.61,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7153.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 95.17,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 800.28,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 20.21,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 90.13,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "New Sports Complex",
+      "resource_type": "water",
+      "consumption_value": 7622.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 417.53,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 60.36,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.59,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 327.68,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 303.2,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 85.55,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 59.25,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 83.6,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.36,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 4805.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 76.87,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 625.67,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 20.6,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 52.94,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6414.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 13.24,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 825.54,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 10017.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 166.16,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 680.81,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6158.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 404.04,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 57.83,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7114.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6340.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 36241.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 705.71,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 13.17,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 651.02,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 505.06,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7254.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 90.91,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 663.78,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 715.54,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 57.23,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7147.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 15.45,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 51.38,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4268.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5380.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 394.6,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5991.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6751.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 69.53,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 14.78,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 21.29,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 52.06,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 93.26,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 40978.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 433.46,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5505.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 191.76,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 44.53,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 245.39,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 408.99,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 96.8,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 15.81,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9157.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 87.71,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 24.56,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 469.04,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10688.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 11312.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9135.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 421.1,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 27.36,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5638.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.39,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 668.04,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 424.84,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 316.31,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.79,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 14.06,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 13.21,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 68.08,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 19.02,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 88.72,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 9842.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 3971.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 15.85,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 15.66,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 365.27,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "electricity",
+      "consumption_value": 296.38,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 651.82,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 9626.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8532.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6800.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5693.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 15.71,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 575.15,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 40512.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 464.86,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 417.07,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 60.64,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 647.98,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6092.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6107.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.7,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7131.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 245.36,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7354.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 11459.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 482.45,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 570.45,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10416.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 29.98,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 40261.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 293.78,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 751.67,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 9837.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6502.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 14.54,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 57.6,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 411.93,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 39285.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 469.42,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 301.84,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 687.64,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 10086.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 41724.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 285.51,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10654.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 83.54,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 640.87,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10524.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 9866.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 84.09,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 190.0,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 244.4,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7269.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 399.31,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 405.53,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 13.33,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 57.26,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 12.65,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 701.88,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 213.43,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 712.78,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 277.64,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 465.3,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 31.18,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 51.26,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 75.98,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 182.58,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 13.44,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 712.14,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 239.84,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 313.09,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 13.96,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 723.65,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 60.9,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 39215.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5590.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 250.02,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "electricity",
+      "consumption_value": 318.71,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "electricity",
+      "consumption_value": 315.39,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 722.6,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6912.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 88.64,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 38716.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 423.18,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10365.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 21.47,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 646.53,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 30.96,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5003.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 38515.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.84,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.61,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 28.45,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 286.44,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 370.52,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 87.49,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 304.41,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 28.69,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7048.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 14.6,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 422.56,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 713.06,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.39,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 88.35,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.29,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 40707.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 186.55,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 783.64,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 305.92,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9330.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9456.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 183.91,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 1040.68,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6166.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 472.48,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 51.04,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 313.99,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 94.35,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 32.63,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 246.67,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 46.31,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5547.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8660.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 34758.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 88.31,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 164.05,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7082.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6442.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 464.9,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 38538.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 55.53,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 166.62,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 544.37,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10234.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 223.23,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10213.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6230.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5743.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7917.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 825.28,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 89.82,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 51.4,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 39732.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9343.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6248.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 30.51,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6266.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 309.74,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 64.72,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4240.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 72.73,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5519.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8901.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 76.88,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 93.16,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 23.21,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 39031.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 316.25,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 635.47,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5502.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9774.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6025.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5961.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 636.25,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 51.25,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 45.38,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 33929.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 485.95,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 15.01,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 69.33,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 35923.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 39938.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 56.54,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 693.9,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 444.4,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 33.06,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 41884.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 653.49,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 75.73,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6516.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 40362.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 783.6,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 39703.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 439.64,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4464.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 16.35,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5195.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 1070.25,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 11575.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 55.33,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 83.44,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.31,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 232.42,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 39566.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 247.19,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 324.8,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 808.25,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4107.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 313.03,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6121.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 96.0,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 420.31,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 54.57,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6384.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 27.91,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37921.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 642.99,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 592.44,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 603.96,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 20.04,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37304.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 481.61,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 15.97,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 11.68,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 29.7,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 50.86,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8333.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 640.75,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5228.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4191.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 29.96,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 780.77,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 61.26,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 585.03,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5652.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 20.17,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 562.35,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 22.39,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 82.9,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 20.64,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 423.03,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7358.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 35804.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 430.23,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 745.61,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 57.42,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 669.39,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 417.92,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 71570.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 38680.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6514.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7082.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 55.19,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5330.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 97.56,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 38364.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 225.87,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 323.25,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 54.85,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8583.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 751.9,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 11445.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 19.47,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6447.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8990.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 562.16,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 35539.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 657.14,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 27.25,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 658.41,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37413.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5648.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 198.36,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 37414.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 57.02,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 427.36,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 30.64,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 307.64,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 23.82,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 739.29,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 52.7,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 36013.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 457.77,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 573.07,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 576.21,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9733.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37620.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 187.9,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 698.26,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 39900.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 83.49,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 59.37,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 734.63,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 19.19,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 26.19,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6177.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8889.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 183.79,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 407.48,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 11.96,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 372.62,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6273.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 55.92,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 236.85,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5337.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 171.3,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 646.76,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8763.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 12.01,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Innovation Hub",
+      "resource_type": "waste",
+      "consumption_value": 17.46,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5802.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4259.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.98,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6115.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 11.8,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37459.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 428.72,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.32,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4421.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 173.49,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 20.63,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5605.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 72944.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37165.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 40587.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 78842.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 231.31,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 11222.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.96,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 91.07,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.92,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 54.15,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 14.2,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 426.49,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 42478.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 23.54,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 630.85,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 409.82,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 234.49,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9780.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 54.43,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8937.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 537.27,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 213.43,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7909.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.41,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 233.15,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 13.31,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 275.81,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 41099.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 20.76,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 622.71,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 193.31,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 690.14,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 34792.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 238.57,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 701.78,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 763.01,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 63.1,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 762.96,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9640.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.29,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6922.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5758.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10177.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5209.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 183.68,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 435.98,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9535.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 171.29,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10867.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 651.14,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 470.28,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 52.55,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 736.37,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 88.67,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 76379.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 650.82,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 39056.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 42066.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.12,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 654.11,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 19.56,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 97.59,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 42300.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 384.48,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 386.17,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 776.87,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 432.26,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 10312.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 299.08,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 11031.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 434.22,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9510.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 778.06,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 18.23,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 14.91,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 19.33,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.82,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 816.56,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 800.26,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 59.63,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10750.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 14.14,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 41699.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 194.63,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5209.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 207.34,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 55.63,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 12.18,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 398.94,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 34217.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "electricity",
+      "consumption_value": 635.06,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 27.88,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 708.6,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 408.77,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 288.77,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 93.92,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 116.48,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5349.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 22.5,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 22.42,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37325.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 469.32,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 255.76,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 20.72,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 34569.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 73.01,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 3762.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 81.38,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 25.05,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 27.9,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "New Sports Complex",
+      "resource_type": "water",
+      "consumption_value": 7533.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 81.28,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9073.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 21.68,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 19.2,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7591.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 268.28,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 71120.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 15.14,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 31.45,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 12.95,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 97.52,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6155.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 0.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 89.73,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 86.63,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 494.86,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 274.34,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 25.66,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5931.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6389.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5021.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 93.78,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 22.33,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 55.37,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 733.08,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 50.15,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 5272.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 424.22,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 310.99,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Gymnasium",
+      "resource_type": "electricity",
+      "consumption_value": 181.78,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37242.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 4751.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 278.81,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5683.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 16.84,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6531.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 39444.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 53.45,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 20.66,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9886.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 21.11,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8885.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 256.84,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 359.3,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 709.25,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 56.05,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Auditorium",
+      "resource_type": "water",
+      "consumption_value": 4528.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 85.13,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 226.42,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "electricity",
+      "consumption_value": 731.58,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 17.34,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8348.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "water",
+      "consumption_value": 4669.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9597.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10538.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8893.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10343.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 826.47,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "electricity",
+      "consumption_value": 488.38,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 10317.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9066.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7222.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 42885.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7121.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 776.15,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 67.78,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 86.63,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 22.6,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Guest House",
+      "resource_type": "Electricity",
+      "consumption_value": 96.31,
+      "unit": "kwh"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 59.92,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "waste",
+      "consumption_value": 64.2,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 40572.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "water",
+      "consumption_value": 11085.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9197.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 20.64,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 320.37,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9725.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 243.83,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "waste",
+      "consumption_value": 50.63,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 21.82,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 770.32,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "electricity",
+      "consumption_value": 275.67,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 18.68,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6298.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Hostel C",
+      "resource_type": "water",
+      "consumption_value": 41904.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5702.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 6910.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00Z",
+      "building": "Canteen",
+      "resource_type": "waste",
+      "consumption_value": 89.31,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Library",
+      "resource_type": "electricity",
+      "consumption_value": 388.26,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "electricity",
+      "consumption_value": 252.48,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9587.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "waste",
+      "consumption_value": 20.35,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00Z",
+      "building": "Lecture Hall Complex",
+      "resource_type": "water",
+      "consumption_value": 7643.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Admin Block",
+      "resource_type": "waste",
+      "consumption_value": 15.47,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00Z",
+      "building": "Hostel A",
+      "resource_type": "electricity",
+      "consumption_value": 780.83,
+      "unit": "kWh"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00Z",
+      "building": "Sports Arena",
+      "resource_type": "waste",
+      "consumption_value": 14.0,
+      "unit": "kg"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00Z",
+      "building": "Workshop Block",
+      "resource_type": "waste",
+      "consumption_value": 27.87,
+      "unit": "kg"
+    }
+  ]
+}

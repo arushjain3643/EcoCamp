@@ -1,0 +1,67 @@
+{
+  "contract_version": "1.0",
+  "simulation_contract_version": "1.0",
+  "status": "ok",
+  "engine_version": "0.7.0",
+  "result": {
+    "simulation_contract_version": "1.0",
+    "engine_version": "0.7.0",
+    "scenario_id": "scn-eb07ac88ee72",
+    "projection_type": "hypothetical",
+    "calculation_status": "calculated",
+    "not_calculated_reason": null,
+    "scope": {
+      "level": "building",
+      "building_code": "BLOCK_A",
+      "buildings_included": [
+        "BLOCK_A"
+      ]
+    },
+    "resource_type": "electricity",
+    "unit": "kWh",
+    "baseline": {
+      "value": 11382.0,
+      "unit": "kWh",
+      "period_days": 30,
+      "source": "measured_records",
+      "window_start": "2026-06-16",
+      "window_end": "2026-07-15",
+      "days_with_data": 30,
+      "coverage_fraction": 1.0,
+      "readings_used": 30
+    },
+    "reduction_percentage": 15.0,
+    "projected_consumption": {
+      "value": 9674.7,
+      "unit": "kWh"
+    },
+    "estimated_savings": {
+      "value": 1707.3,
+      "unit": "kWh"
+    },
+    "estimated_co2e_savings_kg": 853.65,
+    "emission_factor": {
+      "value": 0.5,
+      "unit": "kg CO2e/kWh"
+    },
+    "measured_savings": null,
+    "units": {
+      "consumption": "kWh",
+      "co2e": "kg CO2e",
+      "period": "days"
+    },
+    "building_breakdown": null,
+    "assumptions": [
+      "Hypothetical projection: it assumes the stated reduction is achieved over the whole baseline period. It is not measured savings and does not show that any reduction happened.",
+      "estimated_savings = baseline x reduction_percentage / 100; projected_consumption = baseline - estimated_savings.",
+      "All consumption values are in kWh. The baseline period is 30 days and is never rescaled.",
+      "No monetary savings are estimated.",
+      "Baseline = sum of the electricity readings (kWh) in the 30 calendar days (UTC) ending on the most recent reading (2026-07-15), not on today's date.",
+      "Each record's consumption_value is consumption for its own interval (not a cumulative meter value); gaps are not filled or extrapolated.",
+      "15 reading(s) older than the baseline window were not used.",
+      "CO2e reduction = estimated savings (kWh) x 0.5 kg CO2e/kWh (source: illustrative placeholder for documentation, not a real factor)."
+    ],
+    "warnings": [],
+    "data_quality_status": "ok"
+  }
+}

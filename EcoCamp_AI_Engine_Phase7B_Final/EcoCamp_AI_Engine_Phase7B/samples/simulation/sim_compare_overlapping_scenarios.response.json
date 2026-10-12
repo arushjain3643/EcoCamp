@@ -1,0 +1,317 @@
+{
+  "contract_version": "1.0",
+  "simulation_contract_version": "1.0",
+  "status": "ok",
+  "engine_version": "0.7.0",
+  "result": {
+    "simulation_contract_version": "1.0",
+    "engine_version": "0.7.0",
+    "projection_type": "hypothetical",
+    "scenarios_count": 2,
+    "scenarios": [
+      {
+        "simulation_contract_version": "1.0",
+        "engine_version": "0.7.0",
+        "scenario_id": "campus-10",
+        "projection_type": "hypothetical",
+        "calculation_status": "calculated",
+        "not_calculated_reason": null,
+        "scope": {
+          "level": "campus",
+          "building_code": null,
+          "buildings_included": [
+            "BLOCK_A",
+            "BLOCK_B"
+          ]
+        },
+        "resource_type": "electricity",
+        "unit": "kWh",
+        "baseline": {
+          "value": 5416.0,
+          "unit": "kWh",
+          "period_days": 30,
+          "source": "measured_records",
+          "window_start": "2026-06-01",
+          "window_end": "2026-06-30",
+          "days_with_data": 30,
+          "coverage_fraction": 1.0,
+          "readings_used": 60
+        },
+        "reduction_percentage": 10.0,
+        "projected_consumption": {
+          "value": 4874.4,
+          "unit": "kWh"
+        },
+        "estimated_savings": {
+          "value": 541.6,
+          "unit": "kWh"
+        },
+        "estimated_co2e_savings_kg": null,
+        "emission_factor": null,
+        "measured_savings": null,
+        "units": {
+          "consumption": "kWh",
+          "co2e": "kg CO2e",
+          "period": "days"
+        },
+        "building_breakdown": [
+          {
+            "building": "BLOCK_A",
+            "baseline_value": 2708.0,
+            "days_with_data": 30,
+            "readings_used": 30
+          },
+          {
+            "building": "BLOCK_B",
+            "baseline_value": 2708.0,
+            "days_with_data": 30,
+            "readings_used": 30
+          }
+        ],
+        "assumptions": [
+          "Hypothetical projection: it assumes the stated reduction is achieved over the whole baseline period. It is not measured savings and does not show that any reduction happened.",
+          "estimated_savings = baseline x reduction_percentage / 100; projected_consumption = baseline - estimated_savings.",
+          "All consumption values are in kWh. The baseline period is 30 days and is never rescaled.",
+          "No monetary savings are estimated.",
+          "Baseline = sum of the electricity readings (kWh) in the 30 calendar days (UTC) ending on the most recent reading (2026-06-30), not on today's date.",
+          "Each record's consumption_value is consumption for its own interval (not a cumulative meter value); gaps are not filled or extrapolated."
+        ],
+        "warnings": [
+          "No electricity emission factor configured; CO2e reduction not calculated."
+        ],
+        "data_quality_status": "ok"
+      },
+      {
+        "simulation_contract_version": "1.0",
+        "engine_version": "0.7.0",
+        "scenario_id": "block-a-15",
+        "projection_type": "hypothetical",
+        "calculation_status": "calculated",
+        "not_calculated_reason": null,
+        "scope": {
+          "level": "building",
+          "building_code": "BLOCK_A",
+          "buildings_included": [
+            "BLOCK_A"
+          ]
+        },
+        "resource_type": "electricity",
+        "unit": "kWh",
+        "baseline": {
+          "value": 2708.0,
+          "unit": "kWh",
+          "period_days": 30,
+          "source": "measured_records",
+          "window_start": "2026-06-01",
+          "window_end": "2026-06-30",
+          "days_with_data": 30,
+          "coverage_fraction": 1.0,
+          "readings_used": 30
+        },
+        "reduction_percentage": 15.0,
+        "projected_consumption": {
+          "value": 2301.8,
+          "unit": "kWh"
+        },
+        "estimated_savings": {
+          "value": 406.2,
+          "unit": "kWh"
+        },
+        "estimated_co2e_savings_kg": null,
+        "emission_factor": null,
+        "measured_savings": null,
+        "units": {
+          "consumption": "kWh",
+          "co2e": "kg CO2e",
+          "period": "days"
+        },
+        "building_breakdown": null,
+        "assumptions": [
+          "Hypothetical projection: it assumes the stated reduction is achieved over the whole baseline period. It is not measured savings and does not show that any reduction happened.",
+          "estimated_savings = baseline x reduction_percentage / 100; projected_consumption = baseline - estimated_savings.",
+          "All consumption values are in kWh. The baseline period is 30 days and is never rescaled.",
+          "No monetary savings are estimated.",
+          "Baseline = sum of the electricity readings (kWh) in the 30 calendar days (UTC) ending on the most recent reading (2026-06-30), not on today's date.",
+          "Each record's consumption_value is consumption for its own interval (not a cumulative meter value); gaps are not filled or extrapolated."
+        ],
+        "warnings": [
+          "No electricity emission factor configured; CO2e reduction not calculated."
+        ],
+        "data_quality_status": "ok"
+      }
+    ],
+    "resource_totals": {
+      "electricity": {
+        "resource_type": "electricity",
+        "unit": "kWh",
+        "scenarios_count": 2,
+        "calculated_scenarios_count": 2,
+        "included_in_portfolio_count": 1,
+        "excluded_from_portfolio_count": 1,
+        "total_baseline": 5416.0,
+        "total_estimated_savings": 541.6,
+        "portfolio_savings": 541.6,
+        "unadjusted_gross_savings": 947.8,
+        "total_projected_consumption": 4874.4,
+        "total_estimated_co2e_savings_kg": null,
+        "overlapping_detected": true
+      },
+      "water": {
+        "resource_type": "water",
+        "unit": "liters",
+        "scenarios_count": 0,
+        "calculated_scenarios_count": 0,
+        "included_in_portfolio_count": 0,
+        "excluded_from_portfolio_count": 0,
+        "total_baseline": 0.0,
+        "total_estimated_savings": 0.0,
+        "portfolio_savings": 0.0,
+        "unadjusted_gross_savings": 0.0,
+        "total_projected_consumption": 0.0,
+        "total_estimated_co2e_savings_kg": null,
+        "overlapping_detected": false
+      },
+      "waste": {
+        "resource_type": "waste",
+        "unit": "kg",
+        "scenarios_count": 0,
+        "calculated_scenarios_count": 0,
+        "included_in_portfolio_count": 0,
+        "excluded_from_portfolio_count": 0,
+        "total_baseline": 0.0,
+        "total_estimated_savings": 0.0,
+        "portfolio_savings": 0.0,
+        "unadjusted_gross_savings": 0.0,
+        "total_projected_consumption": 0.0,
+        "total_estimated_co2e_savings_kg": null,
+        "overlapping_detected": false
+      }
+    },
+    "total_co2e_savings_kg": null,
+    "co2e_supported": false,
+    "rankings": {
+      "by_resource": {
+        "electricity": [
+          {
+            "rank": 1,
+            "scenario_id": "campus-10",
+            "building_code": null,
+            "reduction_percentage": 10.0,
+            "estimated_savings": 541.6,
+            "unit": "kWh",
+            "estimated_co2e_savings_kg": null,
+            "calculation_status": "calculated",
+            "included_in_portfolio": true
+          },
+          {
+            "rank": 2,
+            "scenario_id": "block-a-15",
+            "building_code": "BLOCK_A",
+            "reduction_percentage": 15.0,
+            "estimated_savings": 406.2,
+            "unit": "kWh",
+            "estimated_co2e_savings_kg": null,
+            "calculation_status": "calculated",
+            "included_in_portfolio": false
+          }
+        ],
+        "water": [],
+        "waste": []
+      },
+      "by_co2e": [],
+      "by_percentage": [
+        {
+          "rank": 1,
+          "scenario_id": "block-a-15",
+          "resource_type": "electricity",
+          "building_code": "BLOCK_A",
+          "reduction_percentage": 15.0,
+          "estimated_savings": 406.2,
+          "unit": "kWh",
+          "calculation_status": "calculated",
+          "included_in_portfolio": false
+        },
+        {
+          "rank": 2,
+          "scenario_id": "campus-10",
+          "resource_type": "electricity",
+          "building_code": null,
+          "reduction_percentage": 10.0,
+          "estimated_savings": 541.6,
+          "unit": "kWh",
+          "calculation_status": "calculated",
+          "included_in_portfolio": true
+        }
+      ],
+      "overall": [
+        {
+          "rank": 1,
+          "scenario_id": "block-a-15",
+          "resource_type": "electricity",
+          "building_code": "BLOCK_A",
+          "reduction_percentage": 15.0,
+          "estimated_savings": 406.2,
+          "unit": "kWh",
+          "calculation_status": "calculated",
+          "included_in_portfolio": false
+        },
+        {
+          "rank": 2,
+          "scenario_id": "campus-10",
+          "resource_type": "electricity",
+          "building_code": null,
+          "reduction_percentage": 10.0,
+          "estimated_savings": 541.6,
+          "unit": "kWh",
+          "calculation_status": "calculated",
+          "included_in_portfolio": true
+        }
+      ]
+    },
+    "portfolio": {
+      "policy": "deterministic_max_savings_deduplication",
+      "description": "Prevent double-counting across overlapping scopes (same building or campus vs building) by deterministically selecting maximum-saving non-overlapping initiatives.",
+      "overlapping_scenarios_detected": true,
+      "included_scenario_ids": [
+        "campus-10"
+      ],
+      "excluded_scenario_ids": [
+        "block-a-15"
+      ],
+      "overlap_groups": [
+        {
+          "resource_type": "electricity",
+          "conflict_type": "campus_vs_building_scope",
+          "scope": "campus_hierarchy",
+          "conflicting_scenario_ids": [
+            "campus-10",
+            "block-a-15"
+          ],
+          "selected_scenario_id": "campus-10",
+          "excluded_scenario_ids": [
+            "block-a-15"
+          ],
+          "reason": "Campus-wide scenario savings (541.6 kWh) >= sum of individual building scenarios (406.2 kWh); campus scenario chosen to avoid double-counting."
+        }
+      ]
+    },
+    "data_quality_status": "ok",
+    "assumptions": [
+      "Hypothetical projections: all results assume stated percentage reductions are fully achieved over baseline periods.",
+      "Not measured savings: simulations do not confirm that any physical reductions took place.",
+      "Deterministic overlap prevention policy: mutually exclusive scenarios for the same resource and scope are deduplicated in portfolio totals by selecting maximum-saving combinations.",
+      "No monetary figures or financial projections are calculated.",
+      "Hypothetical projection: it assumes the stated reduction is achieved over the whole baseline period. It is not measured savings and does not show that any reduction happened.",
+      "estimated_savings = baseline x reduction_percentage / 100; projected_consumption = baseline - estimated_savings.",
+      "All consumption values are in kWh. The baseline period is 30 days and is never rescaled.",
+      "No monetary savings are estimated.",
+      "Baseline = sum of the electricity readings (kWh) in the 30 calendar days (UTC) ending on the most recent reading (2026-06-30), not on today's date.",
+      "Each record's consumption_value is consumption for its own interval (not a cumulative meter value); gaps are not filled or extrapolated."
+    ],
+    "warnings": [
+      "Overlapping scenarios detected (1 conflict group(s)). To prevent double-counting, deduplicated non-overlapping portfolio totals are reported in total_estimated_savings. Unadjusted gross savings are provided for reference.",
+      "No emission factors configured; CO2e savings are not calculated.",
+      "No electricity emission factor configured; CO2e reduction not calculated."
+    ]
+  }
+}

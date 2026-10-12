@@ -1,0 +1,844 @@
+{
+  "records": [
+    {
+      "timestamp": "2026-08-01T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 36089.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 33287.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 34569.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 39031.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37511.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 40717.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 40362.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 34217.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37304.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 38515.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 38138.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37242.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 40587.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 40512.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 35923.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 34758.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37413.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 39285.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 36013.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 38680.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37325.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 35008.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 33929.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 39566.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 36241.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37459.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37165.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37921.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 34792.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 35539.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 72944.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 76379.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 71570.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 72603.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 78842.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 71120.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 35804.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 39732.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 33957.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00+05:30",
+      "building": "Hostel B",
+      "resource_type": "water",
+      "consumption_value": 37620.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5209.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5931.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6121.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6531.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6442.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6166.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6611.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6025.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5693.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6177.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6107.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5991.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6003.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6340.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5702.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5218.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6381.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6085.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6092.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6155.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5961.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5590.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5758.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6115.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6266.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6273.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6428.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6248.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5759.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5743.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6304.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6230.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6389.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6158.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6447.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5802.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5648.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6514.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 6414.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00+05:30",
+      "building": "Science Block",
+      "resource_type": "water",
+      "consumption_value": 5683.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-01T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8889.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-02T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8532.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-03T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9535.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-04T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9587.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-05T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9780.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-06T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9733.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-07T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 10017.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-08T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9032.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-09T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8893.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-10T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9330.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-11T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9774.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-12T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8763.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-13T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8583.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-14T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9157.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-15T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8333.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-16T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8885.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-17T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 10086.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-18T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9510.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-19T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 10312.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-20T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9725.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-21T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9456.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-22T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8642.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-23T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8990.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-24T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9343.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-25T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8509.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-26T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9066.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-27T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9073.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-28T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9640.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-29T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8348.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-30T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9135.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-08-31T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9389.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-01T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8901.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-02T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9886.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9537.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-04T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9197.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-05T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8937.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-06T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8590.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-07T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9747.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-08T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 8660.0,
+      "unit": "liters"
+    },
+    {
+      "timestamp": "2026-09-09T00:00:00+05:30",
+      "building": "Canteen",
+      "resource_type": "water",
+      "consumption_value": 9597.0,
+      "unit": "liters"
+    }
+  ]
+}

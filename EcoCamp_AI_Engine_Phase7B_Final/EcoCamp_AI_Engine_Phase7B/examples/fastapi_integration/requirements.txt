@@ -1,0 +1,6 @@
+# Only for the example app. The engine itself needs ../../requirements.txt.
+-r ../../requirements.txt
+fastapi>=0.110
+uvicorn>=0.27
+httpx>=0.25          # needed by fastapi.testclient (tests only)
+python-dotenv>=1.0   # optional: loads a local .env

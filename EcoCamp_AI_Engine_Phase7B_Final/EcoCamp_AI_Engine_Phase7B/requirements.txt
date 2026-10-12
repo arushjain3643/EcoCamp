@@ -1,0 +1,10 @@
+# EcoCamp AI engine - core dependencies (Python 3.9+).
+# The engine runs fully offline with these; no LLM SDK or API key is needed.
+pydantic>=2.5,<3
+numpy>=1.24
+scikit-learn>=1.3      # optional methods: Isolation Forest (Phase 2) and HistGradientBoostingRegressor (Phase 6 forecasting)
+pytest>=7.4            # to run the test suite
+
+# Optional, NOT needed to run or test the engine:
+#   pip install -r requirements-llm.txt                      # Gemini / OpenAI SDKs
+#   pip install -r examples/fastapi_integration/requirements.txt   # FastAPI example + its tests
